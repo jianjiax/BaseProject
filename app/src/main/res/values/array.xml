@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="platform_settle">
+        <item>支付宝</item>
+        <!--<item>银行卡</item>-->
+    </string-array>
+
+    <string-array name="bottom_menu">
+        <item>首页</item>
+        <item>分类</item>
+        <item>报表</item>
+        <item>爱分享</item>
+        <item>我的</item>
+    </string-array>
+    <string-array name="bottom_menu_normal">
+        <item>首页</item>
+        <item>分类</item>
+        <item>我的</item>
+    </string-array>
+    <string-array name="order_status">
+        <item>所有订单</item>
+        <item>已付款</item>
+        <item>已结算</item>
+        <item>已失效</item>
+    </string-array>
+    <string-array name="statistics_filter">
+        <item>今日</item>
+        <item>昨日</item>
+        <item>近7日</item>
+        <item>近30日</item>
+    </string-array>
+</resources>

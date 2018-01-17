@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BaiChuanTest</string>
+
+
+    <string name="loading">加载中...</string>
+    <string name="getFilePermissionTip">请打开文件读取权限！</string>
+    <string name="confirmExit">再按一次退出程序</string>
+    <string name="newlyVersion">当前已是最新版本</string>
+
+
+    <string name="download">下载</string>
+    <string name="downloadStart">开始下载</string>
+    <string name="updateTip">更新</string>updateTip
+
+    <string name="downloadManagerAvailable">下载管理器被禁用，请在"设置-应用程序-下载管理器"开启！</string>
+</resources>

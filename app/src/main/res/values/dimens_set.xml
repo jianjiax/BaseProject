@@ -1,0 +1,38 @@
+<resources>
+
+    <dimen name="bottom_tab_height">@dimen/px100</dimen>
+    <dimen name="actionBarHeight">@dimen/px100</dimen>
+    <dimen name="padding_normal">@dimen/px30</dimen>
+    <dimen name="button_height">@dimen/px80</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="textSize_sidebar">10sp</dimen>
+    <dimen name="large_textSize_sidebar">32sp</dimen>
+    <dimen name="textSize_sidebar_choose">12sp</dimen>
+    <dimen name="textSize_sidebar_padding">20sp</dimen>
+    <dimen name="radius_sidebar">20dp</dimen>
+    <dimen name="ball_radius_sidebar">24dp</dimen>
+
+    <!-- 字体大小 -->
+    <dimen name="txt18">9sp</dimen>
+    <dimen name="txt20">10sp</dimen>
+    <dimen name="txt24">12sp</dimen>
+    <dimen name="txt28">14sp</dimen>
+    <dimen name="txt30">15sp</dimen>
+    <dimen name="txt32">16sp</dimen>
+    <dimen name="txt36">18sp</dimen>
+    <dimen name="txt40">20sp</dimen>
+    <dimen name="txt44">22sp</dimen>
+    <dimen name="txt48">24sp</dimen>
+    <dimen name="txt56">28sp</dimen>
+    <dimen name="txt64">32sp</dimen>
+
+    <dimen name="txt_small">@dimen/txt24</dimen>
+    <dimen name="txt_normal">@dimen/txt28</dimen>
+    <dimen name="txt_medium">@dimen/txt32</dimen>
+    <dimen name="txt_large">@dimen/txt36</dimen>
+    <dimen name="txt_xlarge">@dimen/txt48</dimen>
+
+</resources>

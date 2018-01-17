@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?><!-- shape如果不声明形状则默认为正方形 -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval"
+    android:useLevel="false">
+
+    <!--&lt;!&ndash;间隔&ndash;&gt;-->
+    <!--<padding-->
+        <!--android:bottom="1dp"-->
+        <!--android:left="2dp"-->
+        <!--android:right="2dp"-->
+        <!--android:top="1dp" />-->
+
+    <!-- 圆角半径，会被下边的属性覆盖，默认为1dp -->
+    <!--<corners android:radius="5.0dp" />-->
+    <!--android:topLeftRadius="20dp"-->
+    <!--android:topRightRadius="20dp"-->
+    <!--android:bottomLeftRadius="20dp"-->
+    <!--android:bottomRightRadius="20dp"-->
+
+
+    <!--渐变 android:type=["linear" | "radial" | "sweep"]-->
+    <!--angle 必须是45的倍数-->
+    <!--if type="radial"，android:gradientRadius="50"。-->
+    <!--android:angle是渐变角度，必须为45的整数倍。-->
+    <!--android:useLevel=["true" | "false"]-->
+    <!--<gradient-->
+        <!--android:angle="450"-->
+        <!--android:endColor="#FFFFFF"-->
+        <!--android:gradientRadius="50"-->
+        <!--android:startColor="#ff8c00"-->
+        <!--android:type="linear"-->
+        <!--android:useLevel="false" />-->
+
+    <!-- 形状的填充色 -->
+    <solid android:color="#c5c5c5"/>
+
+</shape>
